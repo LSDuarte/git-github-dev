@@ -1,0 +1,4 @@
+"Um branch é uma ramificação do projeto";
+
+
+branch master -> ramo principal
